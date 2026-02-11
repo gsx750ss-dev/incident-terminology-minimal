@@ -1,2 +1,2 @@
-# incident-terminology-minimal
-Minimal terminology definitions for post-incident clarity.
+This repository provides minimal, non-evaluative terminology definitions
+to reduce misinterpretation during post-incident reviews.
